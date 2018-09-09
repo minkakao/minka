@@ -7,8 +7,8 @@ permalink:           /:title
 relative_permalinks: true
 
 # Setup
-timezone:            Aisa/South Korea # eg. Asia/Kathmandu
-locale:              ko # eg. en_us
+timezone:            Aisa/SouthKorea # eg. Asia/Kathmandu
+locale:              en_us # eg. en_us
 name:				         Minkyeung Kim
 title:               Minka
 tagline:             'tagline'
