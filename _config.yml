@@ -1,1 +1,10 @@
-theme: jekyll-theme-cayman
+# basic options
+title: Minka
+author: Mink
+email: minkakim95@gmail.com
+description: A wonderful portfolio
+github_username: minkako
+
+# Build settings
+markdown: kramdown
+theme: mickey
