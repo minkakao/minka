@@ -6,4 +6,4 @@ description: A wonderful portfolio
 github_username:  minkakao
 # Build settings
 markdown: kramdown
-theme: mickey
+theme: none
